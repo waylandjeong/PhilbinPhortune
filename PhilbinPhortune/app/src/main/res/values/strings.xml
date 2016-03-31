@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Philbin Phortunes</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_string">Welcome to the Philbin Phortune App</string>
+    <string name="foobar">foobar</string>
+    <string name="title_activity_view_cookie">Receive Your Phortune</string>
+    <string-array name="Quotes">
+        <item>Spray paint job</item>
+        <item>Happy dental floss</item>
+        <item>Dollup</item>
+        <item>PowerPoint to code converter</item>
+        <item>Mrs Philbin</item>
+        <item>I\'m not a storage guy but I play one on TV</item>
+        <item>Tone lock</item>
+        <item>Ahmad talks Klingon</item>
+        <item>Dave Philbin</item>
+        <item>Train cap and whistle</item>
+        <item>Linda Blair action</item>
+        <item>Brenda Vaccaro voice</item>
+        <item>Flying bird response</item>
+        <item>Wardrobe malfunction</item>
+        <item>Girl Scout cookie catalog</item>
+        <item>Hair growing in all the wrong places</item>
+        <item>Hiring behind the curve</item>
+        <item>Pepe Le Pew</item>
+        <item>Without getting a licensed driver to the install</item>
+        <item>18 minute gap</item>
+        <item>After 25 years, it\'s time to rotate the tires</item>
+        <item>Doggie on the dashboard</item>
+        <item>It looks like a kazoo</item>
+        <item>I don\'t want that repeated, tweeted or Facebooked</item>
+        <item>whine button</item>
+        <item>Halfway to Hana</item>
+        <item>The smoke you see is from the train that just left the station</item>
+        <item>Let them go weapons free</item>
+        <item>Need less notes – Count Basie, it\’s about the notes you don’t play</item>
+        <item>Stalking horse</item>
+        <item>LeftHand customers are tree huggers, they plant trees to hug</item>
+        <item>Drive it like you stole it</item>
+        <item>Grey smoke or white smoke</item>
+        <item>Like Solomon, I like all my children but not in halves</item>
+        <item>Buckle-up buttercup</item>
+    </string-array>
+</resources>
